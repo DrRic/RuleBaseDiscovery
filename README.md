@@ -1,2 +1,3 @@
 # RuleBaseDiscovery
-The Home page for Rule Base Discovery Data Consultancy 
+The home page for Rule Base Discovery.
+A data consultancy 
